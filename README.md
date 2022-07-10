@@ -23,3 +23,7 @@
 - [Navigateur](#navigateur)
 - [Discord](#discord)
 - [Lecteur média](#mediaplayer)
+- [Spotify](#spotify)
+- [YouTube](#youtube)
+- [Reddit](#reddit)
+- [Twitter](#twitter)
