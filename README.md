@@ -17,7 +17,7 @@
 
 ## Contenu 
 
-- [Extensions pour navigateur](#browser-extensions)
+- [Browser-extensions](#browser-extensions)
 - [Userscripts](#userscripts)
 - [Password Vaults](#password-vaults)
 - [Navigateur](#navigateur)
@@ -32,3 +32,5 @@
 - [VPN](#vpn)
 - [Torrenting](#torrenting)
 - [Twitter](#twitter)
+
+## browser-extensions
