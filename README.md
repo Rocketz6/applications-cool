@@ -35,4 +35,7 @@
 
 ## Browser-extensions
 
-- [Ublock Origin](https://ublockorigin.com/) 🌟 L'une des meilleures extension si ce n'est la meilleure, elle bloque l'intégralité de pubs sur beaucoup de site. (le meilleur adblocker) 
+- [Ublock Origin](https://ublockorigin.com/) 🌟  [Le meilleur adblocker](https://www.youtube.com/watch?v=JRvYqeKvWmU)
+- [xBrowserSync](https://www.xbrowsersync.org/) Extension pour synchroniser plusieurs navigateurs à la fois. (sauvegarde les raccourcis etc)
+- [ViolentMonkey](https://violentmonkey.github.io/) L'une des meilleures extension pour les userscripts, j'en parle dans la prochaine section.
+- 
