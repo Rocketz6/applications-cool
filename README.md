@@ -33,4 +33,4 @@
 - [Torrenting](#torrenting)
 - [Twitter](#twitter)
 
-## browser-extensions
+## Browser-extensions
