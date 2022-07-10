@@ -35,4 +35,4 @@
 
 ## Browser-extensions
 
-- [Ublock Origin](https://ublockorigin.com/)
+- [Ublock Origin](https://ublockorigin.com/) 🌟 L'une des meilleures extension si ce n'est la meilleure, elle bloque l'intégralité de pubs sur beaucoup de site. (le meilleur adblocker) 
