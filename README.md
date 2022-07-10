@@ -34,3 +34,5 @@
 - [Twitter](#twitter)
 
 ## Browser-extensions
+
+- [Ublock Origin](https://ublockorigin.com/)
